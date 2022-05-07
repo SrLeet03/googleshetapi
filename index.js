@@ -19,7 +19,6 @@ const oauth2Client = new google.auth.OAuth2(
     'http://localhost:3000'
   );
   
-  // http://localhost:3000/?code=4/0AX4XfWjty0GnPqr0il9h-JPyccP-MSgdhzo6uCS1iEmjZUQy1Lj0UN1-v_Z-a3kET8p--A&scope=https://www.googleapis.com/auth/spreadsheets.readonly%20https://www.googleapis.com/auth/spreadsheets
   
   const spreadsheetId =  '1bO53G4jJuw2_ILK-gnkaf5ek9S6JgZfQpkmHpeGql5U' ; 
 
